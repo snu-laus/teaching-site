@@ -12,7 +12,7 @@ extra:
   homepage: https://laus.snu.ac.kr
   
 nav:
-  - Teaching: index.md
+  - Home: index.md
   - 도시와 주거:
       - 강의계획서: urbanism-housing/index.md
       - 주차별계획: urbanism-housing/schedule.md
