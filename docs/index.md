@@ -6,6 +6,5 @@
 
 [LAUS 강의 전체 개괄로 돌아가기](https://laus.snu.ac.kr/teaching)
 
-## Courses
 
 - [도시와 주거](urbanism-housing/)
