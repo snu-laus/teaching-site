@@ -5,6 +5,9 @@ theme:
   name: material
   language: ko
 
+extra_css:
+  - stylesheets/extra.css
+  
 nav:
   - Home: index.md
   - 도시와 주거:
