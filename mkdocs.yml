@@ -6,7 +6,7 @@ theme:
   language: ko
 
 nav:
-  - Home: https://laus.snu.ac.kr/teaching
+  - Home: index.md
   - 도시와 주거:
-      - 강의계획서: ai-literacy/index.md
+      - 강의계획서: urbanism-housing/index.md
       - 2025-2: https://bumjoon.notion.site/Urbanism-and-Housing-d3e85f0ebcb14ecc9d211120ba308433?pvs=4          
